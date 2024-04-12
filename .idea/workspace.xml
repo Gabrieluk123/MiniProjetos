@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f054a4e5-f644-48f5-a002-9644a5deba4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Media.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
+    <list default="true" id="f054a4e5-f644-48f5-a002-9644a5deba4c" name="Changes" comment="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação!">
+      <changelist_data name="Gabrieluk123" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +22,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gabrieluk123" />
+        <option value="Gabrieluk123 &lt;gabriel.souzaalmeida@yahoo.com.br&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gabrieluk123/PrimeiroProjeto.git",
+    "accountId": "7975d144-7798-4a49-a773-7cbf00ca291a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -68,6 +76,28 @@
       <option name="presentableId" value="Default" />
       <updated>1712785026832</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação.">
+      <option name="closed" value="true" />
+      <created>1712878688228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712878688228</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação!">
+      <option name="closed" value="true" />
+      <created>1712878802854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712878802854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação." />
+    <MESSAGE value="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pequenos programas que fazem a Média,conversão de dólar,casting,preço de um produto com desconto,treino com char e string e multiplicação!" />
   </component>
 </project>

@@ -25,7 +25,7 @@ public class Media {
          double valorTotal = (precoProduto * quantidade);
         System.out.println(String.format("O valor total é:%.2f",valorTotal));
 
-        double valorEmDolares = 50.99;
+        double valorEmDolares = 55.99;
         double conversaoEmReais = (50.99 * 4.94);
 
         System.out.println(String.format("A conversão de dólar para reais é:%.2f",conversaoEmReais));
